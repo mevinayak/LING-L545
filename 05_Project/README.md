@@ -7,7 +7,4 @@ Emotion detection has become one of the crucial areas of research in the field o
 Files in Repositories:
 Dataset: tweet_emotions.csv
 Python Notebook file 1(Containing implementation using BERT): BERT_kvinayak_FinalProject.ipynb
-Python Notebook file 2(Containing implementation using Machine learning Classifiers(SVM, Naive Bayes and Random Forest)): ML_Models_kvinayak_FinalProject.ipynb
-
-
-`
+Python Notebook file 2(Containing implementation using Machine learning Classifiers(SVM, Naive Bayes and Random Forest)): ML_Models_kvinayak_FinalProject.ipynb`
